@@ -42,6 +42,12 @@ h1{
     align-items: center;
 }
 
+.projectIcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* .home {
     font-size: 40px;
     border: 5px solid black;
