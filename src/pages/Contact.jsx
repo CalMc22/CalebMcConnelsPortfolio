@@ -16,6 +16,10 @@ function Contact() {
                 <li>
                     <a href="https://github.com/CalMc22">GitHub</a>
                 </li>
+                <br />
+                <li>
+                    <a href="https://docs.google.com/document/d/1KgRF2tAHSvZ2-STCbXK1IBl9YlB64ocWLxQZ7ppIIfM/edit?usp=sharing">Resume</a>
+                </li>
             </ul>
         </div>
     );
