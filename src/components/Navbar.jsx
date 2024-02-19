@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-// import icon from '../assets/itemshopicon.png'
+import icon from '../assets/home.jpg'
 
 
 function Navbar() {
@@ -10,7 +10,8 @@ function Navbar() {
       <ul className="navBar">
             <li>
               <Link to="/">
-               Home
+              {/* <img className="homeIcon" src={icon}  /> */}
+              Home
               </Link>
             </li>
             <li>
