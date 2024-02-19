@@ -1,8 +1,7 @@
-# React + Vite
+# Caleb McConnell's Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This simple webite has links and descriptions to all the deployed coding projects I've made along with a description of each project. You can also find my contact info and a brief description of who I am!
 
-Currently, two official plugins are available:
+# Link to Portfolio Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://calebmcconnell.netlify.app/
