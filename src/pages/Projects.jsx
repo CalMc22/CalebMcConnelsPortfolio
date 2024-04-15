@@ -38,7 +38,7 @@ function Projects() {
                     <a className='projectIcon' href="https://fortniteitemshop.netlify.app/">Fortnite Item Shop</a>
                     <br />
                     <br />
-                    This shop uses a Fortnite API to grabs and displays the current cosmetics in the Fortnite Item Shop.
+                    This shop uses a Fortnite API to grab and display the current cosmetics in the Fortnite Item Shop.
                 </li>
                 <br />
                 <li>
