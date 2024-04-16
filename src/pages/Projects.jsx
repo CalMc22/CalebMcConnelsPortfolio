@@ -55,7 +55,7 @@ function Projects() {
                     <a className='projectIcon' href="https://www.fortnite.com/@krysos22"> UEFN Projects</a>
                     <br />
                     <br />
-                    I am extremely passionate about making unique gaming experiences as well and thanks to Epic Games for giving players the opportunity to make their own games in UEFN, a version of Unreal Enigine where you can submit your projects into Fortnite! I have been making projects for fun for about 4 years now and since the release of UEFN about a year ago, my projects and passion for creativing these games has grown so much more! Check out my <a href="https://www.fortnite.com/@krysos22">Creator Profile</a> if you would like to see what I made!
+                     Check out my Creator Profile with the link above to see what games I made inside of UEFN (Unreal Engine Fornite)!
                 </li>
             </ul>
         </div>
