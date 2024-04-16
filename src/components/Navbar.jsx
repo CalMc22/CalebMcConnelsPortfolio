@@ -8,18 +8,18 @@ function Navbar() {
   return (
     <div>
       <ul className="navBar">
-            <li>
-              <Link to="/">
-              {/* <img className="homeIcon" src={icon}  /> */}
-              Home
-              </Link>
-            </li>
-            <li>
-              <Link to="/projects">Projects</Link>
-            </li>
-            <li>
-              <Link to="/contact">Contact</Link>
-            </li>
+        <li>
+          <Link to="/">
+            {/* <img className="homeIcon" src={icon}  /> */}
+            Home
+          </Link>
+        </li>
+        <li>
+          <Link to="/projects">Projects</Link>
+        </li>
+        <li>
+          <Link to="/contact">Contact</Link>
+        </li>
       </ul>
     </div>
   );
