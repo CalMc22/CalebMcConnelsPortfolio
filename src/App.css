@@ -1,9 +1,9 @@
 body {
     margin: 0;
-    background-image: url('./assets/fuji night.jpg');
-    background-size: cover;
-    background-position: center;
-    background-color: black;
+    background-image: url('./assets/starry night.jpg');
+    background-size: 2000px;
+    /* background-position: center; */
+    /* background-color: skyblue; */
     color: rgb(255, 255, 255);
     text-decoration: none;
 }
@@ -84,7 +84,8 @@ h1{
     border-radius: 20px;
     filter: drop-shadow(2px 2px 15px);
     background: rgb(100,50,100);
-    background: linear-gradient(180deg, rgba(100,50,100,0.6) 0%, rgba(100,70,100,0.6) 95%);    margin: 100px;
+    background: linear-gradient(180deg, rgba(100,50,100,0.6) 0%, rgba(100,70,100,0.6) 95%);  
+    margin: 75px;
     font-size: 50px;
 }
 
